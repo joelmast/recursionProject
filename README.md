@@ -1,6 +1,6 @@
-# Let's create a simple text file with the markdown content.
 
-content = """# Fibonacci and Merge Sort
+
+# Fibonacci and Merge Sort
 
 This project practices problem-solving with iteration and recursion by working on two classic problems: generating Fibonacci sequences and implementing Merge Sort.
 
