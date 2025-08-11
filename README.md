@@ -12,7 +12,6 @@ This project practices problem-solving with iteration and recursion by working o
 
 ## Notes
 
-- `fibsRec` prints a message each time it recurses to help visualize the recursion process.
 - `mergeSort` repeatedly splits arrays and merges them back in sorted order.
 
 ## Testing
@@ -24,4 +23,4 @@ Each function can be tested by calling it with different inputs and checking the
 - Fibonacci Sequence — Wikipedia
 - Merge Sort — Wikipedia
 - The Odin Project — Recursion and Merge Sort Lessons
-"""
+
